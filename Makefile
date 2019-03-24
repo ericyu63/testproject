@@ -1,2 +1,2 @@
 test: test.c
-	gcc -o test test.c -I.
+	gcc -o /tmp/test test.c -I.
